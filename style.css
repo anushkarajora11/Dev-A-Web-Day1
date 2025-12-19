@@ -1,0 +1,66 @@
+html{
+    scroll-behavior: smooth;
+}
+.profil-pic {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.introduction {
+    text-align: center;
+  
+    padding: 40px 20px;
+}
+.introduction h1{
+     margin: 5px 0;
+     font-size: 28px;
+}
+.introduction p {
+    max-width: 500px;
+    margin: 10px auto;
+    color: #666;
+    line-height: 1.6;
+}
+
+
+h2 {
+    margin: 5px 0;
+    color:rgb(3, 42, 42);
+}
+h3 {
+    margin: 0;
+    font-weight: normal;
+    color: #555;
+}
+
+.about {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+
+}
+.about p {
+    margin-bottom: 14px;
+    color: #444;
+    line-height: 1.6;
+    text-align: left;
+    font-size: 17px;
+}
+
+.skills {
+    max-width: 800px;
+    font-size: 17px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+.skills ul{
+    list-style-type: disc;
+    padding-left: 20px;
+}
+.skills li{
+    margin-bottom: 12px;
+    line-height: 1.6;
+}
