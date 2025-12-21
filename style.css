@@ -12,7 +12,7 @@ html{
     top: 0;
     z-index: 100;
 }
-.navbar{
+section {
    scroll-margin-top: 90px;
 }
 
