@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website — Dev-A-Web Day 1
+# 🌐 My Website — Dev-A-Web Day 1
 
 A modern, responsive **single-page personal portfolio website** built using **HTML, CSS, and JavaScript** as part of the **Dev-A-Web Day-1 Assignment**.
 
